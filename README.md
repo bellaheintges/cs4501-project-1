@@ -23,5 +23,6 @@ Each group member employed their own approach to analyze and interpret the extra
 - Emmie’s Chrome Activity: Compared browsing activity with external sleep-tracking data from an iPhone Health app to evaluate accuracy and correlation.
 
 ## Repository Contents
+- bellas-code.py - Bella's Python script utilized to process and visualize relevant Chrome data.
 - ryans-code.py - Ryan's Python script utilized to process and visualize relevant Chrome data.
 - README.md – This file, providing an overview of the project.
